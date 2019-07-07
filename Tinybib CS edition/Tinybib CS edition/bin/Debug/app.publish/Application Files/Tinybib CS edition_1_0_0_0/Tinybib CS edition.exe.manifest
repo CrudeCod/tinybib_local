@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Tinybib CS edition.exe" version="1.0.0.0" publicKeyToken="5fad5c983064dcb1" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Tinybib CS edition" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Tinybib CS edition.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MySql.Data.dll" size="708608">
+      <assemblyIdentity name="MySql.Data" version="8.0.15.0" publicKeyToken="C5687FC88969C44D" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>csTtN1Dz7O3Ap24hir7uPIxKZlXZR6aCAPiKHL53CWo=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Tinybib CS edition.exe" size="15816">
+      <assemblyIdentity name="Tinybib CS edition" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>yBO6OCN1Wl4HlrKDaaV4xhW47R16Rrg1DKYnqU+8KWQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Tinybib CS edition.exe.config" size="186">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>eSEJjkfolEEv39DK/g+IzGhJd0CZjqwXxowAEpBp2AM=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=MIKAELLENOVO\Alex" issuerKeyHash="90497ede0c2ed6d33f9b5adb78549bdc2f71cca4" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>uv7qnZ7yPyEb4CFyNteJs03Zz6Y0xjXKh9Bq8ejhArM=</DigestValue></Reference></SignedInfo><SignatureValue>mRH+BYMVh8tMYQ+tXij17JVrFO7VzYeCQaKmxzaoXnbbMVMrEb+E62YeYz0ajIZxXMi5cP88jKVJpxP778vQn0kktGaqDgDx4EjTeuKfmoQRJLcBmP2Og7TgMgQhfwxOHnx1Za5ZLpCbNRVOWoMIF7pQ9loqj9Lgo8Qs8Dsoq/s=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>rfHmVCR6ocNgP7Bwp0Hv/3bs1i/xxFKLuFjR46VjcxDv7unfLRAYG9NdqSZVMqD8D7Lo17ZP9TNIuar8FaYjW+h4jIqHXKTMRO+fAggpbXCLQHnBhLJRbDE3QXqJdJ8spPd/F0VDhVlz7OOUj8TCJxgpDF6sn4YN6ajwF5b7fzk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="b302e1e8f16ad087ca35c634a6cfd94db389d7367221e01b213ff29e9deafeba" Description="" Url=""><as:assemblyIdentity name="Tinybib CS edition.exe" version="1.0.0.0" publicKeyToken="5fad5c983064dcb1" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=MIKAELLENOVO\Alex</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>LITor2lWBCe3cqLaFGxtk3EiWyPqzAq3EFkSr6Doza4=</DigestValue></Reference></SignedInfo><SignatureValue>WQE8Atn02WVz/Wkl9Nd7YV0CiSco04alUvXL1J+X1rFlNMJus1LuvH2OssbX46Z1whiMYnxD09L4xGeLIyzq0REedUm69sFmHzdtMvwtCdrwEvGq7/sjRKnB3vV9YYeE8ekuDIqn30DwqlsStwCge6CZAbUs+852mB3FQuZEVxo=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>rfHmVCR6ocNgP7Bwp0Hv/3bs1i/xxFKLuFjR46VjcxDv7unfLRAYG9NdqSZVMqD8D7Lo17ZP9TNIuar8FaYjW+h4jIqHXKTMRO+fAggpbXCLQHnBhLJRbDE3QXqJdJ8spPd/F0VDhVlz7OOUj8TCJxgpDF6sn4YN6ajwF5b7fzk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB3TCCAUagAwIBAgIQY5bluAWVFZlFWds1VtRJ9DANBgkqhkiG9w0BAQsFADAtMSswKQYDVQQDHiIATQBJAEsAQQBFAEwATABFAE4ATwBWAE8AXABBAGwAZQB4MB4XDTE5MDYwMzExNTkzNFoXDTIwMDYwMjE3NTkzNFowLTErMCkGA1UEAx4iAE0ASQBLAEEARQBMAEwARQBOAE8AVgBPAFwAQQBsAGUAeDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEArfHmVCR6ocNgP7Bwp0Hv/3bs1i/xxFKLuFjR46VjcxDv7unfLRAYG9NdqSZVMqD8D7Lo17ZP9TNIuar8FaYjW+h4jIqHXKTMRO+fAggpbXCLQHnBhLJRbDE3QXqJdJ8spPd/F0VDhVlz7OOUj8TCJxgpDF6sn4YN6ajwF5b7fzkCAwEAATANBgkqhkiG9w0BAQsFAAOBgQB/QH22ycyLIpR4WP4IrMeff/Pf2TGCzHgAquy8mevccbEHNKsmShis+hW5/LWCnNF8zt4F8Rf6XK/icFGhiYjxsrkStuh1/JeX8t7miOpseuIH1RdOBkIzJFDaCM5UxTEkL3QO+Hdb4Ygu6kPWoKp+oBtrrwaaACzynKYvj6xaRw==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

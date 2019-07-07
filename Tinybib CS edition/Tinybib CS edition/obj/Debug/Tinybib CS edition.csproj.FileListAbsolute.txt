@@ -1,0 +1,15 @@
+C:\Users\Alex\source\repos\Tinybib CS edition\Tinybib CS edition\bin\Debug\Tinybib CS edition.exe.config
+C:\Users\Alex\source\repos\Tinybib CS edition\Tinybib CS edition\bin\Debug\Tinybib CS edition.exe
+C:\Users\Alex\source\repos\Tinybib CS edition\Tinybib CS edition\bin\Debug\Tinybib CS edition.pdb
+C:\Users\Alex\source\repos\Tinybib CS edition\Tinybib CS edition\obj\Debug\Tinybib CS edition.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Tinybib CS edition\Tinybib CS edition\obj\Debug\Tinybib_CS_edition.Form1.resources
+C:\Users\Alex\source\repos\Tinybib CS edition\Tinybib CS edition\obj\Debug\Tinybib_CS_edition.Properties.Resources.resources
+C:\Users\Alex\source\repos\Tinybib CS edition\Tinybib CS edition\obj\Debug\Tinybib CS edition.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\Tinybib CS edition\Tinybib CS edition\obj\Debug\Tinybib CS edition.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Tinybib CS edition\Tinybib CS edition\obj\Debug\Tinybib CS edition.exe
+C:\Users\Alex\source\repos\Tinybib CS edition\Tinybib CS edition\obj\Debug\Tinybib CS edition.pdb
+C:\Users\Alex\source\repos\Tinybib CS edition\Tinybib CS edition\obj\Debug\Tinybib CS edition.csproj.CopyComplete
+C:\Users\Alex\source\repos\Tinybib CS edition\Tinybib CS edition\bin\Debug\Tinybib CS edition.exe.manifest
+C:\Users\Alex\source\repos\Tinybib CS edition\Tinybib CS edition\bin\Debug\Tinybib CS edition.application
+C:\Users\Alex\source\repos\Tinybib CS edition\Tinybib CS edition\obj\Debug\Tinybib CS edition.exe.manifest
+C:\Users\Alex\source\repos\Tinybib CS edition\Tinybib CS edition\obj\Debug\Tinybib CS edition.application

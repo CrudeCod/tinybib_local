@@ -52,9 +52,11 @@ namespace Tinybib_CS_edition
             if (authorSurname1 == null || authorSurname1 == "")
             {
                print = authorName1 + ". " + "'" + articleName1 + "." + "' " + cityPublished1 + ": " + publisherName1 + ", " + datePublished1 + ". " + "Print.";
+                print = string.Format("{0}.'{1}.' {2}: {3}, {4}. Print.", authorName1, articleName1, cityPublished1, publisherName1, datePublished1);
             }
             else
             {
+                print = string.Format("{0}, {1}.'{2}.' {3}: {4}, {5}. Print.", authorSurname1,authorName1,articleName1,cityPublished1,publisherName1,datePublished1);
                 print = authorSurname1 + ", " + authorName1 + ". " + "'" + articleName1 + "." + "' " + cityPublished1 + ": " + publisherName1 + ", " + datePublished1 + ". " + "Print.";
             }
             return print;

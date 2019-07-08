@@ -1,2 +1,2 @@
-# tinybib_local
+# Tinybib!
  tinybib

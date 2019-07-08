@@ -12,3 +12,17 @@ C:\Users\Alex\source\repos\Tinybib CS edition\Tinybib CS edition\obj\Release\Tin
 C:\Users\Alex\source\repos\Tinybib CS edition\Tinybib CS edition\obj\Release\Tinybib CS edition.application
 C:\Users\Alex\source\repos\Tinybib CS edition\Tinybib CS edition\obj\Release\Tinybib CS edition.exe
 C:\Users\Alex\source\repos\Tinybib CS edition\Tinybib CS edition\obj\Release\Tinybib CS edition.pdb
+C:\Users\Alex\Desktop\tinyrepo\tinybib_local\Tinybib CS edition\Tinybib CS edition\bin\Release\Tinybib CS edition.exe.config
+C:\Users\Alex\Desktop\tinyrepo\tinybib_local\Tinybib CS edition\Tinybib CS edition\bin\Release\Tinybib CS edition.exe.manifest
+C:\Users\Alex\Desktop\tinyrepo\tinybib_local\Tinybib CS edition\Tinybib CS edition\bin\Release\Tinybib CS edition.application
+C:\Users\Alex\Desktop\tinyrepo\tinybib_local\Tinybib CS edition\Tinybib CS edition\bin\Release\Tinybib CS edition.exe
+C:\Users\Alex\Desktop\tinyrepo\tinybib_local\Tinybib CS edition\Tinybib CS edition\bin\Release\Tinybib CS edition.pdb
+C:\Users\Alex\Desktop\tinyrepo\tinybib_local\Tinybib CS edition\Tinybib CS edition\obj\Release\Tinybib CS edition.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\tinyrepo\tinybib_local\Tinybib CS edition\Tinybib CS edition\obj\Release\Tinybib_CS_edition.Form1.resources
+C:\Users\Alex\Desktop\tinyrepo\tinybib_local\Tinybib CS edition\Tinybib CS edition\obj\Release\Tinybib_CS_edition.Properties.Resources.resources
+C:\Users\Alex\Desktop\tinyrepo\tinybib_local\Tinybib CS edition\Tinybib CS edition\obj\Release\Tinybib CS edition.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\tinyrepo\tinybib_local\Tinybib CS edition\Tinybib CS edition\obj\Release\Tinybib CS edition.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\tinyrepo\tinybib_local\Tinybib CS edition\Tinybib CS edition\obj\Release\Tinybib CS edition.exe.manifest
+C:\Users\Alex\Desktop\tinyrepo\tinybib_local\Tinybib CS edition\Tinybib CS edition\obj\Release\Tinybib CS edition.application
+C:\Users\Alex\Desktop\tinyrepo\tinybib_local\Tinybib CS edition\Tinybib CS edition\obj\Release\Tinybib CS edition.exe
+C:\Users\Alex\Desktop\tinyrepo\tinybib_local\Tinybib CS edition\Tinybib CS edition\obj\Release\Tinybib CS edition.pdb

@@ -166,6 +166,8 @@ namespace Tinybib_CS_edition
             label1.Text = "Title";
             url.Visible = true;
             label7.Visible = true;
+            label11.Visible = false;
+            sectionTitle.Visible = false;
         }
 
         private void radioButton2_CheckedChanged(object sender, EventArgs e)
@@ -182,6 +184,8 @@ namespace Tinybib_CS_edition
             label11.Visible = true;
             url.Visible = true;
             label7.Visible = true;
+            
+
             //articleName.Visible = false;
         }
 
